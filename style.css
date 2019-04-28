@@ -1,0 +1,29 @@
+body{
+  font-family: verdana;
+  background-color: black;
+  text-align: center;
+}
+h1{
+  color: white;
+  font-weight: normal;
+  font-size: 50 px;
+}
+#sub1{
+  color: aquamarine;
+  font-size: 16 px;
+}
+#sub2{
+  color: white;
+  font-size: 42 px;
+}
+#sub3{
+  color:Gray;
+  font-size: 21 px;
+  font-weight: normal;
+}
+#copy{
+  color:Gray;
+  font-size: 21 px;
+  font-weight: normal;
+  text-align: right;
+}
